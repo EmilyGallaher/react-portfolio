@@ -1,0 +1,599 @@
+/* 03_Portfolio_Work */
+
+position: relative;
+width: 1440px;
+height: 2509px;
+
+background: #FFFFFF;
+
+
+/* hero */
+
+position: absolute;
+width: 1160px;
+height: 389px;
+left: 144px;
+top: 40px;
+
+
+
+/* header */
+
+position: absolute;
+width: 1160px;
+height: 41.82px;
+left: 144px;
+top: 40px;
+
+
+
+/* logo */
+
+position: absolute;
+width: 150px;
+height: 41.82px;
+left: 144px;
+top: 40px;
+
+background: url(image);
+
+
+/* Hom e About Work Contact */
+
+position: absolute;
+width: 345px;
+height: 24px;
+left: 959px;
+top: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: rgba(39, 33, 66, 0.7);
+
+
+
+/* caption */
+
+position: absolute;
+width: 825px;
+height: 170px;
+left: 144px;
+top: 259px;
+
+
+
+/* Take a look at what I've been working on! */
+
+position: absolute;
+width: 825px;
+height: 170px;
+left: calc(50% - 825px/2 - 163.5px);
+top: 259px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+
+
+
+/* item */
+
+position: absolute;
+width: 560px;
+height: 642px;
+left: 140px;
+top: 532px;
+
+
+
+/* images */
+
+position: absolute;
+width: 560px;
+height: 560px;
+left: 140px;
+top: 532px;
+
+background: url(image);
+border-radius: 20px;
+
+
+/* Yogurt Project */
+
+position: absolute;
+width: 176px;
+height: 36px;
+left: calc(50% - 176px/2 - 288px);
+top: 1108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frontend Developer */
+
+position: absolute;
+width: 137px;
+height: 21px;
+left: calc(50% - 137px/2 - 287.5px);
+top: 1153px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(39, 33, 66, 0.7);
+
+
+
+/* item */
+
+position: absolute;
+width: 560px;
+height: 642px;
+left: 740px;
+top: 532px;
+
+
+
+/* images */
+
+position: absolute;
+width: 560px;
+height: 560px;
+left: 740px;
+top: 532px;
+
+background: url(image),
+url(image);
+border-radius: 20px;
+
+
+/* Weather App */
+
+position: absolute;
+width: 163px;
+height: 36px;
+left: calc(50% - 163px/2 + 290.5px);
+top: 1108px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frontend Developer */
+
+position: absolute;
+width: 137px;
+height: 21px;
+left: calc(50% - 137px/2 + 290.5px);
+top: 1153px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(39, 33, 66, 0.7);
+
+
+
+/* item */
+
+position: absolute;
+width: 560px;
+height: 642px;
+left: 740px;
+top: 1214px;
+
+
+
+/* images */
+
+position: absolute;
+width: 560px;
+height: 560px;
+left: 740px;
+top: 1214px;
+
+background: url(image),
+#F9F7FE;
+border-radius: 20px;
+
+
+/* Translation */
+
+position: absolute;
+width: 142px;
+height: 36px;
+left: calc(50% - 142px/2 + 290px);
+top: 1790px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frontend Developer */
+
+position: absolute;
+width: 137px;
+height: 21px;
+left: calc(50% - 137px/2 + 290.5px);
+top: 1835px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(39, 33, 66, 0.7);
+
+
+
+/* inquiry */
+
+position: absolute;
+width: 1160px;
+height: 200px;
+left: 140px;
+top: 2054px;
+
+
+
+/* bg */
+
+position: absolute;
+width: 1160px;
+height: 200px;
+left: 140px;
+top: 2054px;
+
+background: #F9F7FE;
+border-radius: 20px;
+
+
+/* Work Inquiry */
+
+position: absolute;
+width: 298px;
+height: 64px;
+left: calc(50% - 298px/2 - 312px);
+top: 2103px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Let’s work together and i’ll help you by all my best */
+
+position: absolute;
+width: 449px;
+height: 27px;
+left: calc(50% - 449px/2 - 236.5px);
+top: 2185px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: rgba(39, 33, 66, 0.7);
+
+
+
+/* button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 30px;
+gap: 10px;
+
+position: absolute;
+width: 200px;
+height: 63px;
+left: 979px;
+top: 2125px;
+
+background: #6C63FF;
+border-radius: 4px;
+
+
+/* Let’s talk here */
+
+width: 124px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* footer */
+
+position: absolute;
+width: 278px;
+height: 117px;
+left: 580px;
+top: 2332px;
+
+
+
+/* youremail@gmail.com */
+
+position: absolute;
+width: 278px;
+height: 36px;
+left: 580px;
+top: 2332px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* scomed */
+
+position: absolute;
+width: 186px;
+height: 40px;
+left: 627px;
+top: 2409px;
+
+
+
+/* facebook */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 627px;
+top: 2409px;
+
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 627px;
+top: 2409px;
+
+background: rgba(108, 99, 255, 0.05);
+
+
+/*  */
+
+position: absolute;
+width: 12px;
+height: 21px;
+left: 641px;
+top: 2419px;
+
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: #6C63FF;
+
+
+
+/* twitter */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 700px;
+top: 2409px;
+
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 700px;
+top: 2409px;
+
+background: rgba(108, 99, 255, 0.05);
+
+
+/*  */
+
+position: absolute;
+width: 18px;
+height: 21px;
+left: 711px;
+top: 2419px;
+
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: #6C63FF;
+
+
+
+/* instagram */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 773px;
+top: 2409px;
+
+
+
+/* Ellipse 11 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 773px;
+top: 2409px;
+
+background: rgba(108, 99, 255, 0.05);
+
+
+/*  */
+
+position: absolute;
+width: 16px;
+height: 21px;
+left: 785px;
+top: 2419px;
+
+font-family: 'Font Awesome 5 Brands';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: #6C63FF;
+
+
+
+/* item */
+
+position: absolute;
+width: 560px;
+height: 642px;
+left: 140px;
+top: 1214px;
+
+
+
+/* images */
+
+position: absolute;
+width: 560px;
+height: 560px;
+left: 140px;
+top: 1214px;
+
+background: url(image.png);
+border-radius: 20px;
+
+
+/* Dictionary */
+
+position: absolute;
+width: 130px;
+height: 36px;
+left: calc(50% - 130px/2 - 310px);
+top: 1790px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Frontend Developer */
+
+position: absolute;
+width: 137px;
+height: 21px;
+left: calc(50% - 137px/2 - 309.5px);
+top: 1835px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+
+color: rgba(39, 33, 66, 0.7);
