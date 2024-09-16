@@ -127,3 +127,13 @@ h1.mb-5 {
     padding: 160px 20px;
     margin: 20px;  
 }
+nav li {
+    
+    display: inline;
+    list-style: none;
+    line-height: 80px;
+    margin-left: 10px;
+}
+.nav-logo   {
+    width: 150px;
+}
